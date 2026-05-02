@@ -105,9 +105,23 @@
 ## 🚀 What I'm Doing Now
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🔭+Building+full-stack+projects;📚+Mastering+system+design+%26+React;🤝+Open+to+collaborations+%26+work" alt="Current Work"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&color=58A6FF&width=430&height=50&lines=Building+full-stack+projects" alt="Work"/>
 </p>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&color=58A6FF&width=430&height=50&lines=Building+full-stack+projects&v=2" alt="Work"/>
+</p>
+<p align="center">
+  <b>
+    <span style="color:#58A6FF">🔭</span> Building full-stack projects &nbsp;•&nbsp; 
+    <span style="color:#38B2AC">📚</span> Mastering system design &nbsp;•&nbsp; 
+    <span style="color:#BD93F9">🤝</span> Open to collaborations
+  </b>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔭-Building%20full--stack%20projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Building"/>
+  <img src="https://img.shields.io/badge/📚-Learning%20system%20design-38B2AC?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learning"/>
+  <img src="https://img.shields.io/badge/🤝-Open%20to%20collaborations-BD93F9?style=for-the-badge&logo=handshake&logoColor=white" alt="Collabs"/>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/🚀-Learning%20Mode-58A6FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   <img src="https://img.shields.io/badge/💻-Coding%20Daily-2EA043?style=for-the-badge&logo=github&logoColor=white"/>
@@ -125,10 +139,10 @@
   <a href="https://www.linkedin.com/in/saad-mohamed-hassan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:saad@example.com">
+  <a href="mailto:saadmohamed222200@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://protofolio-saad.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
