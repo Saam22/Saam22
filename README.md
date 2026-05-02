@@ -1,11 +1,14 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:38B2AC&height=180&section=header&text=Saad%20Mohamed&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
-<!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=38B2AC&center=true&vCenter=true&random=false&width=600&height=70&lines=👋+Hi+there%2C+I'm+Saad;🚀+Full-Stack+Developer;⚛️+React.js+%7C+Node.js+%7C+Django;💡+Problem+Solver" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=38B2AC&center=true&vCenter=true&multiline=false&repeat=false&width=600&height=60&lines=👋+Hi+there,+I'm+Saad+Mohamed;🚀+Full-Stack+Developer;⚛️+React.js+%7C+Node.js+%7C+Django" >
 </p>
+<!-- Animated Typing -->
+
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" style="border-radius: 20px;" alt="Coding"/>
