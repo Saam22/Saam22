@@ -107,16 +107,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&color=58A6FF&width=430&height=50&lines=Building+full-stack+projects" alt="Work"/>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&color=58A6FF&width=430&height=50&lines=Building+full-stack+projects&v=2" alt="Work"/>
-</p>
-<p align="center">
-  <b>
-    <span style="color:#58A6FF">🔭</span> Building full-stack projects &nbsp;•&nbsp; 
-    <span style="color:#38B2AC">📚</span> Mastering system design &nbsp;•&nbsp; 
-    <span style="color:#BD93F9">🤝</span> Open to collaborations
-  </b>
-</p>
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/🔭-Building%20full--stack%20projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Building"/>
   <img src="https://img.shields.io/badge/📚-Learning%20system%20design-38B2AC?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learning"/>
