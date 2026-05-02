@@ -14,8 +14,10 @@
 
 <!-- Animated Stats Row -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saam22&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true&animation=true" height="160" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saam22&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&animation=true" height="160" alt="top languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saam22&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF" height="160" alt="Streak Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saam22&theme=radical" alt="Profile Summary"/>
 </p>
 
 <!-- Animated Skills Section -->
@@ -64,23 +66,112 @@
 </table>
 
 ---
+## 🌱 What I'm Up To <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="30">
+
+<p align="center">
+  <!-- Animated Gradient Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=3&width=100%&section=header" alt="divider"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&color=58A6FF&multiline=true&width=520&height=90&lines=🔭+Crafting+scalable+web+apps;📚+Deep+dive:+System+Design+%26+React+patterns;✨+Always+building,+always+learning" alt="Current Work"/>
+</p>
+
+<!-- Animated Skill Bars with Emojis -->
+<p align="center">
+  <sup>🏗️ System Design</sup><br>
+  <img src="https://geps.dev/progress/65?color=58A6FF&bgColor=0D1117&showValue=true" width="250"/><br>
+  <sub><i>Architecture • DDD • Caching Strategies</i></sub>
+</p>
+
+<p align="center">
+  <sup>⚛️ Advanced React</sup><br>
+  <img src="https://geps.dev/progress/80?color=38B2AC&bgColor=0D1117&showValue=true" width="250"/><br>
+  <sub><i>Server Components • Concurrent Features • Testing</i></sub>
+</p>
+<!-- Modern Card Style -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&color=58A6FF&width=500&height=80&lines=🔭+Full-Stack+Projects;📚+System+Design+%26+React;🤝+Let's+Build+Together" alt="Activities"/>
+</p>
+
+<p align="center">
+  <img src="https://svg-progress-bar.vercel.app/api?percent=65&color=58A6FF&title=System%20Design&subtitle=Architecture%20%7C%20Scalability" width="220" alt="System Design"/>
+  <img src="https://svg-progress-bar.vercel.app/api?percent=80&color=38B2AC&title=Advanced%20React&subtitle=Hooks%20%7C%20Performance" width="220" alt="React"/>
+</p>
+<!-- Modern Card Style -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&color=58A6FF&width=500&height=80&lines=🔭+Full-Stack+Projects;📚+System+Design+%26+React;🤝+Let's+Build+Together" alt="Activities"/>
+</p>
+
+<p align="center">
+  <img src="https://svg-progress-bar.vercel.app/api?percent=65&color=58A6FF&title=System%20Design&subtitle=Architecture%20%7C%20Scalability" width="220" alt="System Design"/>
+  <img src="https://svg-progress-bar.vercel.app/api?percent=80&color=38B2AC&title=Advanced%20React&subtitle=Hooks%20%7C%20Performance" width="220" alt="React"/>
+</p>
+## 🌱 Currently Doing <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="35">
+
+<!-- 🔥 Animated Typing Text - FIXED LINK -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&color=58A6FF&center=true&vCenter=true&multiline=true&width=550&height=90&lines=🔭+Building+full-stack+projects;📚+Mastering+system+design+%26+React+patterns;🤝+Open+to+collabs+%26+new+opportunities" alt="Current Activities">
+</p>
+
+<!-- 📊 Modern Progress Cards -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://geps.dev/progress/65?color=58A6FF&bgColor=161B22&title=System+Design&showValue=true" width="200" alt="System Design Progress"/>
+      <br><sub>🎯 Architecture • Scalability • Microservices</sub>
+    </td>
+    <td align="center">
+      <img src="https://geps.dev/progress/80?color=38B2AC&bgColor=161B22&title=Advanced+React&showValue=true" width="200" alt="React Progress"/>
+      <br><sub>⚛️ Hooks • Performance • Server Components</sub>
+    </td>
+  </tr>
+</table>
+
+<!-- 🎯 Quick Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀-Learning%20Mode-blue?style=for-the-badge&logo=react&logoColor=white" alt="Learning"/>
+  <img src="https://img.shields.io/badge/💻-Coding%20Daily-green?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Coding"/>
+  <img src="https://img.shields.io/badge/🎯-Goal%20Oriented-orange?style=for-the-badge&logo=target&logoColor=white" alt="Goals"/>
+</p>
 
 ## 🌱 Currently Doing <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="35">
 
+<!-- Modern Card Style -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&color=58A6FF&center=false&vCenter=false&multiline=true&width=500&height=100&lines=🔭+Working+on+full-stack+projects;📚+Learning+system+design+%26+advanced+React;🤝+Open+to+collaborations+%26+opportunities" alt="Current Activities">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&color=58A6FF&width=500&height=80&lines=🔭+Full-Stack+Projects;📚+System+Design+%26+React;🤝+Let's+Build+Together" alt="Activities"/>
 </p>
 
-<!-- Animated Progress Bars for Learning -->
 <p align="center">
-  <b>System Design:</b> 
-  <img src="https://progress-bar.dev/65/?scale=100&title=%25&width=150&color=58A6FF&suffix=%25" alt="progress"/>
-  <b>Advanced React:</b> 
-  <img src="https://progress-bar.dev/80/?scale=100&title=%25&width=150&color=58A6FF&suffix=%25" alt="progress"/>
+  <img src="https://svg-progress-bar.vercel.app/api?percent=65&color=58A6FF&title=System%20Design&subtitle=Architecture%20%7C%20Scalability" width="220" alt="System Design"/>
+  <img src="https://svg-progress-bar.vercel.app/api?percent=80&color=38B2AC&title=Advanced%20React&subtitle=Hooks%20%7C%20Performance" width="220" alt="React"/>
+</p>
+<!-- 🔥 Animated Typing Text - FIXED LINK -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&color=58A6FF&center=true&vCenter=true&multiline=true&width=550&height=90&lines=🔭+Building+full-stack+projects;📚+Mastering+system+design+%26+React+patterns;🤝+Open+to+collabs+%26+new+opportunities" alt="Current Activities">
 </p>
 
----
+<!-- 📊 Modern Progress Cards -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://geps.dev/progress/65?color=58A6FF&bgColor=161B22&title=System+Design&showValue=true" width="200" alt="System Design Progress"/>
+      <br><sub>🎯 Architecture • Scalability • Microservices</sub>
+    </td>
+    <td align="center">
+      <img src="https://geps.dev/progress/80?color=38B2AC&bgColor=161B22&title=Advanced+React&showValue=true" width="200" alt="React Progress"/>
+      <br><sub>⚛️ Hooks • Performance • Server Components</sub>
+    </td>
+  </tr>
+</table>
 
+<!-- 🎯 Quick Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀-Learning%20Mode-blue?style=for-the-badge&logo=react&logoColor=white" alt="Learning"/>
+  <img src="https://img.shields.io/badge/💻-Coding%20Daily-green?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Coding"/>
+  <img src="https://img.shields.io/badge/🎯-Goal%20Oriented-orange?style=for-the-badge&logo=target&logoColor=white" alt="Goals"/>
+</p>
 ## 📫 Let's Connect! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <p align="center">
