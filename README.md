@@ -69,9 +69,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Saam22&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=38B2AC" width="49%" alt="Stats"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saam22&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=58A6FF&line=38B2AC&point=ffffff" width="95%" alt="Activity Graph"/>
-</p>
 
 ---
 
