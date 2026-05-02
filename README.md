@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi there, I'm Saam22
 
-<!--
-**Saam22/Saam22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full-Stack Developer | React.js | Node.js | Django
 
-Here are some ideas to get you started:
+I'm passionate about building **responsive, dynamic, and user-friendly** web applications.  
+I enjoy turning ideas into real-world code and continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+
+- **Front-end:** HTML, CSS, JavaScript, React.js  
+- **Back-end:** Node.js, Django  
+- **Core Concepts:** OOP, Data Structures, Design Patterns  
+
+---
+
+### 🎓 Education & Experience
+
+- 🎓 **Ain Shams University** – Faculty of Computer and Information Science  
+- 💼 Internships at **ITI** & **Mentality** (hands-on experience in real projects)  
+
+---
+
+### 🌱 Currently
+
+- 🔭 Working on full-stack projects  
+- 📚 Learning more about system design and advanced React patterns  
+- 🤝 Open to collaboration and new opportunities  
+
+---
+
+### 📫 How to reach me
+
+- GitHub: [Saam22](https://github.com/Saam22)  
+- (إضافة لينكد إن أو إيميل لو حابب)
+
+---
+
+### ⚡ Fun fact
+
+I write code like I drink coffee – **daily and with focus** ☕
+
+---
+
+⭐ *Always learning, always building.*
