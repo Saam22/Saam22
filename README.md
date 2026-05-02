@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=38B2AC&center=true&vCenter=true&multiline=false&repeat=false&width=600&height=60&lines=👋+Hi+there,+I'm+Saad+Mohamed;🚀+Full-Stack+Developer;⚛️+React.js+%7C+Node.js+%7C+Django" alt="Typing Animation">
