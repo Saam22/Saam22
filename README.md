@@ -1,11 +1,12 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-
+<!-- Dynamic Header with Multiple Animations -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:38B2AC&height=200&section=header&text=Saad%20Mohamed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descAlign=50&descSize=20"/>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:38B2AC&height=180&section=header&text=Saad%20Mohamed&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=38B2AC&center=true&vCenter=true&multiline=false&repeat=false&width=600&height=60&lines=👋+Hi+there,+I'm+Saad+Mohamed;🚀+Full-Stack+Developer;⚛️+React.js+%7C+Node.js+%7C+Django" >
-</p>
+
 <!-- Animated Typing -->
 
 
