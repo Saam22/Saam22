@@ -3,9 +3,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:38B2AC&height=200&section=header&text=Saad%20Mohamed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descAlign=50&descSize=20"/>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:38B2AC&height=180&section=header&text=Saad%20Mohamed&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-</p>
 
 <!-- Animated Typing -->
 
