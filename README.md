@@ -17,6 +17,24 @@
 </p>
 
 <br/>
+## 🌌 Who Am I?
+
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Coding GIF"/>
+
+```javascript
+const saad = {
+  name:        "Saad Mohamed Hassan",
+  university:  "Ain Shams University 🎓",
+  role:        "Full-Stack Developer",
+  internships: ["ITI", "Mentality"],
+  currentFocus: ["System Design", "Advanced React"],
+  openTo:      ["Collaborations", "New Opportunities"],
+  funFact:     "I debug code like I solve puzzles 🧩",
+  motto:       "Ship it, then perfect it ✨"
+};
+```
+
+<br clear="right"/>
 
 ---
 
